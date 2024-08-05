@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE / Editor directories
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Optional logs
+*.log
+*.csv
+
+# Other files and folders that should be ignored
+coverage/
+*.tar.gz
+*.zip
+tmp/
+
